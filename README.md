@@ -1,2 +1,2 @@
 # Number-guessing-name
-A simple number guessing game using number
+A simple number guessing name using python
